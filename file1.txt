@@ -2,5 +2,6 @@ This is first line?
 This is second line!
 Adding third line from Local
 Adding third line from remote
+Repeating scenario from remote
 
 
